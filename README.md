@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Atomix494
 - 👀 I’m interested in web designing 
 - 🌱 I’m currently learning html/CSS/JavaScript 
-- 💞️ I’m looking to collaborate on web design 
+- 💞️ I’m looking to collaborate on web design and UI/UX design
 - 📫 How to reach me WhatsApp . +2348116900593
 
 <!---
